@@ -1,0 +1,25 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* main rules */
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Roboto, sans-serif;
+}
+
+.container {
+  padding-left: 64px;
+  padding-right: 64px;
+  margin: auto;
+}
