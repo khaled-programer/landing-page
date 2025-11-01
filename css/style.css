@@ -146,3 +146,20 @@ nav {
   padding: 8px 0;
   color: rgb(114, 114, 114);
 }
+
+/* testimonial */
+.testimonial {
+  background-color: #e5e7eb;
+  padding: 64px;
+}
+
+.testimonial .q {
+  font-weight: 300;
+  font-size: 36px;
+  color: #1f2937;
+}
+
+.auth {
+  text-align: right;
+  font-weight: bold;
+}
